@@ -11,7 +11,7 @@ import io
 from datetime import datetime, timedelta
 
 # Инициализация
-API_TOKEN = '7773402317:AAGBdwqO_kLtpzJwNkp0s4VRD4fSsDWgQus'
+API_TOKEN = '**'
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
